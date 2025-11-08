@@ -1,2 +1,6 @@
 .streamlit/*
 !.streamlit/secrets.toml.example
+
+# PyInstaller
+build/
+dist/
